@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Laravel, Go**
+- 🌱 I’m currently learning **Coding**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **Coding**
 
 - 📫 How to reach me **danialfacrudin@gmail.com**
 
