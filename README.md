@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dany</h1>
-<h3 align="center">A passionate developer from Indonesia</h3>
+<h3 align="center">Orang Ganteng dan Intelek.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danialfach&label=Profile%20views&color=0e75b6&style=flat" alt="danialfach" /> </p>
 
