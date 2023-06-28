@@ -2,7 +2,11 @@
 <h3>Orang Ganteng & Intelek</h3>
 
 **Language & Skills**
-<img src="https://skillicons.dev/icons?i=docker,dotnet,gradle,graphql,git,hibernate,java,js,kafka,kubernetes,laravel,nodejs,php,postgres,nginx,spring,scala,jenkins,fastapi" />
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=docker,dotnet,gradle,graphql,git,hibernate,java,js,kafka,kubernetes,laravel,nodejs,php,postgres,nginx,spring,scala,jenkins,fastapi" />
+  </a>
+</p>
 
 **Database**
 <p>
@@ -12,10 +16,22 @@
 </p>
 
 **Tools**
-<img src="https://skillicons.dev/icons?i=postman,powershell,stackoverflow,idea,vscode,github,gitlab" />
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=postman,powershell,stackoverflow,idea,vscode,github,gitlab" />
+  </a>
+</p>
 
 **Cloud**
-<img src="https://skillicons.dev/icons?i=azure" />
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=azure" />
+  </a>
+</p>
 
 **Web Builder**
-<img src="https://skillicons.dev/icons?i=webpack,vite" />
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=webpack,vite" />
+  </a>
+</p>
