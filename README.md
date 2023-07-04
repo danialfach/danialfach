@@ -1,8 +1,4 @@
-<h1>Dany || Backend Engineer</h1>
-<h3>Orang Ganteng & Intelek</h3>
-
-
-
+<h1>Orang Ganteng dan Intelek.</h1>
 
 **Language & Skills**
 <p>
