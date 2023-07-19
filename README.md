@@ -1,9 +1,7 @@
-<h1>Orang Ganteng dan Intelek.</h1>
-
 **Language & Skills**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,dotnet,gradle,graphql,git,hibernate,java,js,kafka,kubernetes,laravel,nodejs,php,postgres,nginx,spring,scala,jenkins,fastapi" />
+    <img src="https://skillicons.dev/icons?i=docker,dotnet,gradle,graphql,git,hibernate,java,js,kafka,kubernetes,nodejs,postgres,nginx,spring,scala,jenkins,fastapi" />
   </a>
 </p>
 
@@ -24,7 +22,7 @@
 **Cloud**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=azure" />
+    <img src="https://skillicons.dev/icons?i=aws" />
   </a>
 </p>
 
