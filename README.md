@@ -1,21 +1,21 @@
 **Language & Skills**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,dotnet,gradle,graphql,git,hibernate,java,js,kafka,kubernetes,nodejs,postgres,nginx,spring,scala,jenkins,fastapi" />
+    <img src="https://skillicons.dev/icons?i=docker,dotnet,gradle,maven,graphql,spring,java,kotlin,kafka,js,nodejs,nginx,fastapi" />
   </a>
 </p>
 
 **Database**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,hibernate" />
   </a>
 </p>
 
 **Tools**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=postman,powershell,stackoverflow,idea,vscode,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,postman,stackoverflow,idea,vscode,git,github,gitlab" />
   </a>
 </p>
 
