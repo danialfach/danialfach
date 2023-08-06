@@ -26,9 +26,9 @@
   </a>
 </p>
 
-**Web Builder**
+**Social**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=webpack,vite" />
+    <img src="https://skillicons.dev/icons?i=linkedin,discord" />
   </a>
 </p>
