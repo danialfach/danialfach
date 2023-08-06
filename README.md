@@ -1,7 +1,7 @@
 **Language & Skills**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,dotnet,gradle,maven,graphql,spring,java,kotlin,kafka,js,nodejs,nginx,fastapi" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,py,gradle,maven,graphql,spring,java,kafka,nginx,fastapi" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 **Tools**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=linux,postman,stackoverflow,idea,vscode,git,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=linux,stackoverflow,vim,neovim,git,github,gitlab" />
   </a>
 </p>
 
