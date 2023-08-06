@@ -1,7 +1,7 @@
 **Language & Skills**
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,py,gradle,maven,graphql,spring,java,kafka,nginx,fastapi" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,py,gradle,maven,java,kafka,nginx,go" />
   </a>
 </p>
 
