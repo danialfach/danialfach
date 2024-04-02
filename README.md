@@ -21,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danialfach&show_icons=true&locale=en" alt="danialfach" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danialfach&" alt="danialfach" /></p>
