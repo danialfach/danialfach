@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm DANIAL FACHRUDIN</h1>
 <h3 align="center">A passionate Computer Science from Indonesia, ASEAN</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danialfach&label=Profile%20views&color=0e75b6&style=flat" alt="danialfach" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" >
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌱 I’m currently learning **Methodologies, Algorithm & Data Structure, etc.**
+
+- 💬 Ask me about **careers planning and philosophy**
+
+- 📫 How to reach me **danialfacrudin@gmail.com**
+
+- ⚡ Fun fact **I think I am Stupid!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
