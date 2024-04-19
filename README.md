@@ -4,13 +4,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Methodologies, Algorithm & Data Structure, etc.**
+- 🌱 learning **Methodologies, Algorithm & Data Structure, etc.**
 
-- 💬 Ask me about **careers planning and philosophy**
+- 💬 **careers planning and philosophy**
 
-- 📫 How to reach me **danialfacrudin@gmail.com**
+- 📫 **danialfacrudin@gmail.com**
 
-- ⚡ Fun fact **I think I am Stupid!**
+- ⚡ **I create (INTENGIBLE) things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
