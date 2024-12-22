@@ -1,1 +1,1 @@
-<h1 align="center">Orang Ganteng & Intelek.</h1>
+<h1>Orang Ganteng & Intelek.</h1>
